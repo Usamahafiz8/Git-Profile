@@ -1,6 +1,6 @@
 # Muhammad Osama Anwar
 
-[Software Engineer & Full Stack Developer | Project Manager](https://github.com/Usamahafiz8)
+[Software Engineer & Full Stack Developer | Project Manager](https://www.linkedin.com/in/muhammadosamaanwar)
 
 ---
 
@@ -20,6 +20,11 @@ Hello, I'm Osama, a Full Stack and Blockchain developer passionate about coding 
 
 ## Professional Experience
 
+### Intelgency (2023 - Present)
+
+- **Position:** Software Engineer & Follow up
+- **Description:** Currently contributing to Intelgency as a MERN | MEAN & Blockchain Stack Developer. [Include details about your ongoing role and responsibilities.]
+
 ### K-Hive
 
 - **Position:** MERN Stack | Blockchain Developer
@@ -37,11 +42,6 @@ Hello, I'm Osama, a Full Stack and Blockchain developer passionate about coding 
 - **Position:** Project Manager, MERN | MEAN & Blockchain Stack Development
 - **Duration:** 2018 - 2020
 - **Description:** Managed and contributed to various projects involving MERN, MEAN, and Blockchain stack development during freelancing. [Include any notable projects or achievements.]
-
-### Intelgency (2023 - Present)
-
-- **Position:** Software Engineer & Follow up
-- **Description:** Currently contributing to Intelgency as a MERN | MEAN & Blockchain Stack Developer. [Include details about your ongoing role and responsibilities.]
 
 ---
 
@@ -78,7 +78,7 @@ Hello, I'm Osama, a Full Stack and Blockchain developer passionate about coding 
 
 ### Jaralayoun.com - E-commerce Store
 
-- - **Role:** Full Stack Developer
+- **Role:** Full Stack Developer
 - **Technologies:** MERN Stack Developer
 - **Description:** Successfully developed and launched an e-commerce platform, [Provide additional details and achievements]
 
@@ -86,12 +86,13 @@ Hello, I'm Osama, a Full Stack and Blockchain developer passionate about coding 
 
 ## Skills
 
-- Front-End Development
+- Languages ( HTMl, CSS, Javacript, TypeScript, Python, Solidity, Rust)
+- Front-End Development (REACT | Vite | Next.js)
+- Back-End Development (Nest.js | Next.js)
 - Blockchain Development
-- Back-End Development
-- Node.js
-- Database (PostgreSQL)
-- Styling (MUI | Tailwind)
+- Database (PostgreSQL, MySQL, Mongoose, Firebase)
+- Styling Library (MUI | Tailwind)
+- Designing (Figma)
 
 ---
 
